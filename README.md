@@ -11,6 +11,7 @@ Similar to C or C++
 Why Google uses go:
 It allows complex operations across multiple services to run concurrently, so a search can be working with Web, image, and video goroutines, bringing in results from them all and delivering them in one function return. The resulting code is faster and more robust: If one search channel doesn’t respond, you can open another. 
 
+Companies that use Go:  https://github.com/golang/go/wiki/GoUsers
 
 Good PDF overview:  http://core0.staticworld.net/assets/media-resource/73073/ifw_dd_2015_7_google_go.pdf
 
